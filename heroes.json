@@ -1,22 +1,16 @@
 {
   "heroes": [
     {
-      "id": "71a30832-f836-4557-92a1-69b6439b0cdb",
-      "name": "dsfsdf",
-      "description": "dsfsdf",
+      "id": "32de696c-40b1-4cb3-aaf2-09f776ed2d35",
+      "name": "rgregd",
+      "description": "ddd",
       "element": "Вода"
     },
     {
-      "id": "7b03fa34-4008-4fa3-93c0-d9b8ad05bae0",
-      "name": "еукеук",
-      "description": "кеук",
-      "element": ""
-    },
-    {
-      "id": "e1aba69f-832d-490a-98b6-5626c96e8c32",
-      "name": "укеукеу",
-      "description": "уккеу",
-      "element": "Земля"
+      "id": "32a34e8e-5e51-4f04-97b6-6e1bba4122cc",
+      "name": "dfsfgsdfs",
+      "description": "sdfsdfsdfs",
+      "element": "Вода"
     }
   ],
   "filters": [
